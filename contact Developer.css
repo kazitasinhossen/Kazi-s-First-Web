@@ -1,0 +1,27 @@
+button {
+   margin-top: 10px;
+   margin-left: 15px;
+   color: orangered;
+   background: forestgreen;
+   border-style: solid;
+   border-width: 2px;
+   border-color: mediumblue;
+   outline: 20px solid blue;
+}
+#mail{
+   width: 25px;
+   height: 25px;
+   border: 2px solid ;
+   border-radius: 5px;
+   margin-left: 10px;
+}
+.phon, .facebook,.wa{
+   width: 25px;
+   height: 25px;
+   border: 2px solid;
+   border-radius: 5px;
+   margin-left: 10px;
+   background: none;
+}
+
+
